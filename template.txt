@@ -1,0 +1,5 @@
+HK ${PERSON_NAME}, PAMHO
+This is a gentle reminder for tomorrow's ${SEVA}. 
+SP Nectar:
+${LINK}
+ys 
